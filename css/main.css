@@ -1,0 +1,328 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v315_54 {
+  width: 100%;
+  height: 785px;
+  background: url("../images/v315_54.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v346_63 {
+  width: 100%;
+  height: 785px;
+  background: rgba(144,195,162,1);
+  opacity: 1;
+  position: absolute;
+  top: 3px;
+  left: 1px;
+  overflow: hidden;
+}
+.v323_43 {
+  width: 550px;
+  height: 783px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 5px;
+  left: 894px;
+  overflow: hidden;
+}
+.v111_855 {
+  width: 94px;
+  height: 83px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 202px;
+  left: 275px;
+  overflow: hidden;
+}
+.v111_857 {
+  width: 85px;
+  height: 83px;
+  background: rgba(181,206,182,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 5px;
+  border: 2.388305425643921px solid linear-gradient(rgba(60,222,181,1), rgba(54,74,255,1));
+}
+.v307_691 {
+  /* width: 181px; */
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 228px;
+  left: 69px;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: Poppins;
+  font-weight: SemiBold;
+  font-size: 50px;
+  opacity: 1;
+  text-align: center;
+}
+.v307_694 {
+  width: 100%;
+  height: 113px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  left: 1px;
+  overflow: hidden;
+}
+.v307_695 {
+  width: 262px;
+  color: rgba(92,90,90,1);
+  position: absolute;
+  top: 25px;
+  left: 18px;
+  font-family: Poppins;
+  font-weight: SemiBold;
+  font-size: 32px;
+  opacity: 1;
+  text-align: center;
+}
+.v307_696 {
+  /* width: 218px;
+  color: rgba(92,91,91,1);
+  position: absolute;
+  top: 25px;
+  left: 18px;
+  font-family: Poppins;
+  font-weight: SemiBold;
+  font-size: 32px;
+  opacity: 1;
+  text-align: center; */
+  width: 262px;
+  color: rgba(92,90,90,1);
+  position: absolute;
+  top: 25px;
+  left: 18px;
+  font-family: Poppins;
+  font-weight: SemiBold;
+  font-size: 32px;
+  opacity: 1;
+  text-align: center;
+}
+.v307_705 {
+  width: 456px;
+  height: 493px;
+  background: rgba(247,246,241,1);
+  opacity: 1;
+  position: absolute;
+  top: 135px;
+  left: 943px;
+  border-radius: 30px;
+}
+.v314_687 {
+  width: 646px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 300px;
+  left: 69px;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: Roboto Serif;
+  font-weight: Regular;
+  font-size: 22px;
+  opacity: 1;
+  text-align: left;
+}
+.v343_58 {
+  width: 378px;
+  height: 82px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 239px;
+  left: 980px;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  overflow: hidden;
+}
+.v343_59 {
+  width: 378px;
+  height: 82px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 358px;
+  left: 981px;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  overflow: hidden;
+}
+.v343_60 {
+  width: 377px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 267px;
+  left: 980px;
+  font-family: Roboto Serif;
+  font-weight: Medium;
+  font-size: 23px;
+  opacity: 1;
+  text-align: center;
+}
+.v343_61 {
+  width: 325px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 375px;;
+  left: 1008px;
+  font-family: Roboto Serif;
+  font-weight: Medium;
+  font-size: 23px;
+  opacity: 1;
+  text-align: center;
+}
+.v355_64 {
+  width: 4px;
+  height: 114px;
+  background: rgba(105,105,105,0.2199999988079071);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 287px;
+  overflow: hidden;
+}
+.v355_65 {
+  /* width: 4px; */
+  height: 114px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  left: 479px;
+  overflow: hidden;
+}
+.v355_66 {
+  width: 4px;
+  height: 1000px;
+  margin-top: -80px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 45px;
+  left: 894px;
+  overflow: hidden;
+}
+.v358_67 {
+  width: 273px;
+  height: 68px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 433px;
+  left: 60px;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  overflow: hidden;
+}
+.v358_67:hover {
+  cursor: pointer;
+}
+button {
+  /* Button Background and Border */
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 4px;
+  transition: background-color 0.3s;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #898a89ea;
+}
+
+button:active {
+  background-color: #727272f5;
+}
+
+button:focus {
+  outline: none;
+}
+
+
+.v358_68 {
+  color: rgba(54,46,46,0.7099999785423279);
+  position: absolute;
+  top: 455px;
+  left: 125px;
+  font-family: Roboto Serif;
+  font-weight: SemiBold;
+  font-size: 22px;
+  opacity: 1;
+  text-align: left;
+}
+.v368_69 {
+  width: 378px;
+  height: 82px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 477px;
+  left: 980px;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  overflow: hidden;
+}
+.v368_70 {
+  width: 319px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 490px;;
+  left: 1011px;
+  font-family: Roboto Serif;
+  font-weight: Medium;
+  font-size: 23px;
+  opacity: 1;
+  text-align: center;
+}
+.v368_71 {
+  width: 209px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 156px;
+  left: 1054px;
+  font-family: Roboto Serif;
+  font-weight: SemiBold;
+  font-size: 26px;
+  opacity: 1;
+  text-align: center;
+}
+.v368_72 {
+  width: 258px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 575px;
+  left: 1039px;
+  font-family: Roboto Serif;
+  font-weight: SemiBold;
+  font-size: 23px;
+  opacity: 1;
+  text-align: center;
+}
